@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/0x72_DungeonTilesetII_v1.4.png-d12508ed279439c1f8b39fdcd07f2e97.stex"
+path="res://.import/wizzard_m_hit_anim_f0.png-88b092a42ae2139fe0d9e3b256ed9f7e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://DownloadedAssets/0x72_DungeonTilesetII_v1.4.png"
-dest_files=[ "res://.import/0x72_DungeonTilesetII_v1.4.png-d12508ed279439c1f8b39fdcd07f2e97.stex" ]
+source_file="res://DownloadedAssets/Wizard/wizzard_m_hit_anim_f0.png"
+dest_files=[ "res://.import/wizzard_m_hit_anim_f0.png-88b092a42ae2139fe0d9e3b256ed9f7e.stex" ]
 
 [params]
 
